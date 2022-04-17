@@ -212,11 +212,9 @@
 			}
         ],
 		"new_msg": [{
-			{
 				"file": "motions/Live2D_remu24.mtn",
-                "sound": "voice/24.wav",
+        "sound": "voice/24.wav",
 				"msg_id": "24"
-			}
 		}]
 	}
 }
